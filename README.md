@@ -15,20 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Extenciones
-Bracket pair Colorizer 2
-Activitus Bar
-Auto Close Tag
-Auto Rename Tag
-Error Lens
-ES7 + REACT/REDUX/REACT-Native snippets
-Live Server
-Markdown Preview Enhanced
-Material Icon Theme
-Material-ui Snippets
-Monokai Night Theme
-Prettier
-Setting Sync
-Simple React Snippets
-Spanish Language Pack 
-Styled-components-snippets
-TypeScript Importer
+- Bracket pair Colorizer 2
+- Activitus Bar
+- Auto Close Tag
+- Auto Rename Tag
+- Error Lens
+- ES7 + REACT/REDUX/REACT-Native snippets
+- Live Server
+- Markdown Preview Enhanced
+- Material Icon Theme
+- Material-ui Snippets
+- Monokai Night Theme
+- Prettier
+- Setting Sync
+- Simple React Snippets
+- Spanish Language Pack 
+- Styled-components-snippets
+- TypeScript Importer
