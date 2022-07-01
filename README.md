@@ -32,3 +32,5 @@
 <a href="mailto:ruizsilvajonathan@gmail.com" >
 <img height="35" src="https://i.ibb.co/zPfK6jM/gmail.png" /></a>
 </span>
+
+use ctrl + click for open in a new window
