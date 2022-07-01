@@ -8,9 +8,9 @@
 
 <h3>Languages and Tools:</h3>
 
-&nbsp;
+&nbsp;&nbsp;
 
-<div>
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -25,12 +25,13 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   
-</div>
+</p>
 
 <h3>Connect with me:</h3>
 
-&nbsp;
+&nbsp;&nbsp;
 
+<p>
 <span>
 <a href="https://linkedin.com/in/jruizsilva" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-64/linkedin-2752135-2284952.png" alt="jruizsilva" height="35" /></a>
 </span>
@@ -39,5 +40,6 @@
 <a href="mailto:ruizsilvajonathan@gmail.com" >
 <img height="35" src="https://i.ibb.co/zPfK6jM/gmail.png" /></a>
 </span>
+</p>
 
 use ctrl + click for open in a new window
