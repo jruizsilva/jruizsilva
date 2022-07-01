@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
 
+&nbsp;&nbsp;
+
 <h3 align="center">Full Stack Developer with orientation in the Front-end.</h3>
 
 - 👨‍💻 Some of my projects are available at [https://jruizsilva.netlify.app](https://jruizsilva.netlify.app)
 
 <h3>Languages and Tools:</h3>
 
-&nbsp;&nbsp;
+&nbsp;
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
