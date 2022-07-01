@@ -1,12 +1,12 @@
 <h1 align="center"> Hi 👋, I'm Jonathan </h1>
 
-<h3 align="center"> Full Stack Developer with orientation in the Front-end. </h3>
+<h3 align="center"> Full Stack Developer with orientation in the Front-end. </h2>
 
 - 👨‍💻 Some of my projects are available at [https://jruizsilva.netlify.app](https://jruizsilva.netlify.app)
 
-<h3 >Languages and Tools: </h3>
+<h2>Languages and Tools:</h2>
 
-<p>
+<div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -20,12 +20,11 @@
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  
-</p>
+</div>
 
-<h3> Connect with me: </h3>
+<h2>Connect with me:</h2>
 
-<p>
+<div>
 <span>
 <a href="https://linkedin.com/in/jruizsilva" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-64/linkedin-2752135-2284952.png" alt="jruizsilva" height="35" /></a>
 </span>
@@ -34,6 +33,6 @@
 <a href="mailto:ruizsilvajonathan@gmail.com" >
 <img height="35" src="https://i.ibb.co/zPfK6jM/gmail.png" /></a>
 </span>
-</p>
+</div>
 
 use ctrl + click for open in a new window
