@@ -24,11 +24,9 @@
 </div>
 
 <h3>Connect with me:</h3>
-<!-- <span>
+<span>
 <a href="https://linkedin.com/in/jruizsilva" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-64/linkedin-2752135-2284952.png" alt="jruizsilva" height="35" /></a>
-</span> -->
-
-[link](https://linkedin.com/in/jruizsilva){:target="\_blank"}
+</span>
 
 <span>
 <a href="mailto:ruizsilvajonathan@gmail.com" >
