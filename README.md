@@ -1,4 +1,4 @@
-<h1 style="text-align: center">Hi 👋, I'm Jonathan</h1>
+<h1 align="center">Hi 👋, I'm Jonathan</h1>
 
 ### <center>Full Stack Developer with orientation in the Front-end.</center>
 
