@@ -5,6 +5,7 @@
 - 👨‍💻 Some of my projects are available at [https://jruizsilva.netlify.app](https://jruizsilva.netlify.app)
 
 <h3>Languages and Tools:</h3>
+
 &nbsp;
 
 <div>
@@ -25,7 +26,9 @@
 </div>
 
 <h3>Connect with me:</h3>
+
 &nbsp;
+
 <span>
 <a href="https://linkedin.com/in/jruizsilva" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-64/linkedin-2752135-2284952.png" alt="jruizsilva" height="35" /></a>
 </span>
