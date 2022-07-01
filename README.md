@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
 
-### <center>Full Stack Developer with orientation in the Front-end.</center>
+<h3 align="center">Full Stack Developer with orientation in the Front-end.</h3>
 
 - 👨‍💻 Some of my projects are available at [https://jruizsilva.netlify.app](https://jruizsilva.netlify.app)
 
