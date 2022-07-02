@@ -11,6 +11,7 @@
 🚀 Technologies:
 React - Redux - NodeJS - Express - PostgreSQL - Sequelize
 
+use ctrl + click for open the project in a new window
 <div>
   <a href="https://github.com/jruizsilva/e-commerce-labs" target="_blank"><img width='49%' src='./images/marketplace/home.png' /></a>
   <a href="https://github.com/jruizsilva/e-commerce-labs" target="_blank"><img width='49%' src='./images/marketplace/mypublicationspage.png' /></a>
@@ -20,6 +21,7 @@ React - Redux - NodeJS - Express - PostgreSQL - Sequelize
   <a href="https://github.com/jruizsilva/e-commerce-labs" target="_blank"><img width='49%' src='./images/marketplace/checkoutpage.png' /></a>
 </div>
 
+
 <hr/>
 
 ## Countries App
@@ -27,6 +29,7 @@ React - Redux - NodeJS - Express - PostgreSQL - Sequelize
 🚀 Technologies:
 React - Redux - NodeJS - Express - PostgreSQL - Sequelize
 
+use ctrl + click for open the project in a new window
 <div>
   <a href="https://github.com/jruizsilva/countries-pi" target="_blank"><img width='98%' src='./images/countries/home.png' /></a>
 </div>
