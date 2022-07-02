@@ -6,6 +6,11 @@
 
 ## Projects
 
+📌 Marketplace developed connects buyers and sellers.
+
+🚀 Technologies: 
+React - Redux  - NodeJS - Express - PostgreSQL - Sequelize
+
 ## Marketplace App
 
 ## Languages and Tools:
