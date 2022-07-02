@@ -6,7 +6,7 @@
 
 ## Marketplace App
 
-📌 Marketplace developed connects buyers and sellers.
+📌 Marketplace developed that connects buyers and sellers.
 
 🚀 Technologies:
 React - Redux - NodeJS - Express - PostgreSQL - Sequelize
