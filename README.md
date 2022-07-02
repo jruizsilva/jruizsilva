@@ -1,8 +1,10 @@
-<h1 align="center"> Hi 👋, I'm Jonathan </h1>
+<!-- <h1 align="center"> Hi 👋, I'm Jonathan </h1>
 
-<h3 align="center"> Full Stack Developer with orientation in the Front-end. </h2>
+<h3 align="center"> Full Stack Developer with orientation in the Front-end. </h2> -->
 
 <!-- - 👨‍💻 Some of my projects are available at [https://jruizsilva.netlify.app](https://jruizsilva.netlify.app) -->
+
+<img src="./images/banner.png" width="100%"/>
 
 ## Languages and Tools:
 
