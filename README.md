@@ -11,8 +11,12 @@
 <details>
   <summary>Click to expand!</summary>
   
-### Hi! 👋
-Soy un desarrollador web Full Stack con orientación en el Front-end.
+¿Quién soy? 👀
+🔸 Desarrollador Full Stack con orientación en el Front-end.
+
+🔸 Actualmente me encuentro cursando el bootcamp henry, en donde pude mejorar ejercitar mis capacidades técnicas, pero sobre todo mis capacidades sociales como programador.
+
+🔸 Mi experiencia como desarrollador esta basada en varios proyectos que realize en el trascurso del bootcamp, ademas de algunos proyectos personales que realize mientras estudiaba de forma autodidacta.
 
 </details>
 
