@@ -8,7 +8,6 @@
 
 <span>👇👇👇</span>
 
-<hr/>
 ## Marketplace App
 
 ## Languages and Tools:
