@@ -4,9 +4,8 @@
 
 <!-- - 👨‍💻 Some of my projects are available at [https://jruizsilva.netlify.app](https://jruizsilva.netlify.app) -->
 
-## My projects 👇
-
-## Marketplace App
+## Projects:
+### Marketplace App
 
 📌 Marketplace developed connects buyers and sellers.
 
