@@ -6,8 +6,7 @@
 
 ## Checkout my work
 
-<span>👇👇👇</span>
-
+👇👇👇
 ## Marketplace App
 
 ## Languages and Tools:
