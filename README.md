@@ -4,9 +4,8 @@
 
 <!-- - 👨‍💻 Some of my projects are available at [https://jruizsilva.netlify.app](https://jruizsilva.netlify.app) -->
 
-## Checkout Some of my projects
+## Projects
 
-👇👇👇
 ## Marketplace App
 
 ## Languages and Tools:
