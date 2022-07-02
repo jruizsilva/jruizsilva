@@ -4,7 +4,7 @@
 
 <!-- - 👨‍💻 Some of my projects are available at [https://jruizsilva.netlify.app](https://jruizsilva.netlify.app) -->
 
-## Projects 👇
+## My projects 👇
 
 ## Marketplace App
 
