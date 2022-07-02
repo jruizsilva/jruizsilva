@@ -12,14 +12,12 @@
 React - Redux - NodeJS - Express - PostgreSQL - Sequelize
 
 <div>
-  <a><img width='32%' src='./images/marketplace/home.png' /></a>
-  <a><img width='33%' src='./images/marketplace/mypublicationspage.png' /></a>
-  <a><img width='32%' src='./images/marketplace/cartpage.png' /></a>
+  <a><img width='49%' src='./images/marketplace/home.png' /></a>
+  <a><img width='49%' src='./images/marketplace/mypublicationspage.png' /></a>
 </div>
 <div>
-  <a><img width='32%' src='./images/marketplace/mysalespage.png' /></a>
-  <a><img width='33%' src='./images/marketplace/checkoutpage.png' /></a>
-  <a><img width='32%' src='./images/marketplace/landingpage.png' /></a>
+  <a><img width='49%' src='./images/marketplace/cartpage.png' /></a>
+  <a><img width='49%' src='./images/marketplace/checkoutpage.png' /></a>
 </div>
 
 <hr/>
