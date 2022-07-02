@@ -53,10 +53,6 @@ use ctrl + click for open the project in a new window
 
 <div>
   <a href="https://countries-pi-jruizsilva.vercel.app" target="_blank"><img width='48%' src='./images/countries/home.png' /></a>
-  <a href="https://countries-pi-jruizsilva.vercel.app" target="_blank"><img width='49%' src='./images/countries/add_activity.png' /></a>
-</div>
-<div>
-  <a href="https://countries-pi-jruizsilva.vercel.app" target="_blank"><img width='49%' src='./images/countries/details.png' /></a>
 </div>
 
 <hr/>
