@@ -26,7 +26,7 @@
 
 ## Marketplace App
 
-📌 Marketplace developed that connects buyers and sellers.
+📌 Henry bootcamp final project.
 
 🚀 Technologies:
 React - Redux - NodeJS - Express - PostgreSQL - Sequelize
@@ -45,6 +45,8 @@ use ctrl + click for open the project in a new window
 <hr/>
 
 ## Countries App
+
+📌 Henry bootcamp individual project.
 
 🚀 Technologies:
 React - Redux - NodeJS - Express - PostgreSQL - Sequelize
