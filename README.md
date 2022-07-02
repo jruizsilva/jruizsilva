@@ -4,14 +4,14 @@
 
 <!-- - 👨‍💻 Some of my projects are available at [https://jruizsilva.netlify.app](https://jruizsilva.netlify.app) -->
 
-## Projects
+## Projects 👇
+
+## Marketplace App
 
 📌 Marketplace developed connects buyers and sellers.
 
 🚀 Technologies: 
 React - Redux  - NodeJS - Express - PostgreSQL - Sequelize
-
-## Marketplace App
 
 ## Languages and Tools:
 
