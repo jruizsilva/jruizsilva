@@ -48,11 +48,11 @@
 ## _Stats_
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ThompsonBethany01&theme=graywhite&show_icons=true" width=400/>
+    <img src="https://github-readme-stats.vercel.app/api?username=jruizsilva&theme=graywhite&show_icons=true" width=400/>
 </a>
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThompsonBethany01" width=400/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jruizsilva" width=400/>
 </a>
 
-![profile-visitors](https://visitor-badge.glitch.me/badge?page_id=ThompsonBethany01.ThompsonBethany01)
+![profile-visitors](https://visitor-badge.glitch.me/badge?page_id=jruizsilva.jruizsilva)
