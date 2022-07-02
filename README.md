@@ -11,6 +11,13 @@
 🚀 Technologies: 
 React - Redux  - NodeJS - Express - PostgreSQL - Sequelize
 
+<img align="left"  width= "350px" src='producto.png' />
+<img align="center" width= "350px" src='productos.png' />
+<img align="left" width= "350px" src='carrito.png' />
+<img align="center"width= "350px" src='tablaordenes.png' />
+
+<hr/>
+
 ## Languages and Tools:
 
 <p>
