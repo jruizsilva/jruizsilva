@@ -19,7 +19,7 @@
 
 </details>
 
-## Languages and Tools:
+## _Languages and Tools_
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -37,7 +37,7 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </p>
 
-## Connect with me:
+## _Connect with me_
 
 <div>
 <span>
