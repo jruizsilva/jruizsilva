@@ -12,15 +12,15 @@
 React - Redux - NodeJS - Express - PostgreSQL - Sequelize
 
 use ctrl + click for open the project in a new window
-<div>
-  <a href="https://github.com/jruizsilva/e-commerce-labs" target="_blank"><img width='49%' src='./images/marketplace/home.png' /></a>
-  <a href="https://github.com/jruizsilva/e-commerce-labs" target="_blank"><img width='49%' src='./images/marketplace/mypublicationspage.png' /></a>
-</div>
-<div>
-  <a href="https://github.com/jruizsilva/e-commerce-labs" target="_blank"><img width='49%' src='./images/marketplace/cartpage.png' /></a>
-  <a href="https://github.com/jruizsilva/e-commerce-labs" target="_blank"><img width='49%' src='./images/marketplace/checkoutpage.png' /></a>
-</div>
 
+<div>
+  <a href="https://e-commerce-labs.vercel.app" target="_blank"><img width='49%' src='./images/marketplace/home.png' /></a>
+  <a href="https://e-commerce-labs.vercel.app" target="_blank"><img width='49%' src='./images/marketplace/mypublicationspage.png' /></a>
+</div>
+<div>
+  <a href="https://e-commerce-labs.vercel.app" target="_blank"><img width='49%' src='./images/marketplace/cartpage.png' /></a>
+  <a href="https://e-commerce-labs.vercel.app" target="_blank"><img width='49%' src='./images/marketplace/checkoutpage.png' /></a>
+</div>
 
 <hr/>
 
@@ -30,12 +30,13 @@ use ctrl + click for open the project in a new window
 React - Redux - NodeJS - Express - PostgreSQL - Sequelize
 
 use ctrl + click for open the project in a new window
+
 <div>
-  <a href="https://github.com/jruizsilva/countries-pi" target="_blank"><img width='98%' src='./images/countries/home.png' /></a>
+  <a href="https://countries-pi-jruizsilva.vercel.app" target="_blank"><img width='98%' src='./images/countries/home.png' /></a>
 </div>
 <div>
-  <a href="https://github.com/jruizsilva/countries-pi" target="_blank"><img width='49%' src='./images/countries/add_activity.png' /></a>
-  <a href="https://github.com/jruizsilva/countries-pi" target="_blank"><img width='49%' src='./images/countries/details.png' /></a>
+  <a href="https://countries-pi-jruizsilva.vercel.app" target="_blank"><img width='49%' src='./images/countries/add_activity.png' /></a>
+  <a href="https://countries-pi-jruizsilva.vercel.app" target="_blank"><img width='49%' src='./images/countries/details.png' /></a>
 </div>
 
 <hr/>
