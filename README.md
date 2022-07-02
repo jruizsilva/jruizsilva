@@ -28,7 +28,7 @@ React - Redux - NodeJS - Express - PostgreSQL - Sequelize
 React - Redux - NodeJS - Express - PostgreSQL - Sequelize
 
 <div>
-  <a href="https://github.com/jruizsilva/countries-pi" target="_blank"><img width='100%' src='./images/countries/home.png' /></a>
+  <a href="https://github.com/jruizsilva/countries-pi" target="_blank"><img width='98%' src='./images/countries/home.png' /></a>
 </div>
 <div>
   <a href="https://github.com/jruizsilva/countries-pi" target="_blank"><img width='49%' src='./images/countries/add_activity.png' /></a>
