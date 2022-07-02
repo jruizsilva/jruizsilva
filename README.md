@@ -4,7 +4,14 @@
 
 - 👨‍💻 Some of my projects are available at [https://jruizsilva.netlify.app](https://jruizsilva.netlify.app)
 
-<h2>Languages and Tools:</h2>
+## Checkout my work
+
+<span>👇👇👇</span>
+
+<hr/>
+## Marketplace App
+
+## Languages and Tools:
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -22,7 +29,7 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </p>
 
-<h2>Connect with me:</h2>
+## Connect with me:
 
 <div>
 <span>
