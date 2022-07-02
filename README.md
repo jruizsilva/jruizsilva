@@ -12,7 +12,7 @@
   <summary>Click to expand!</summary>
   
 ### Hi! 👋
-Soy desarrollador web Full Stack con orientación en el Front-end.
+Soy un desarrollador web Full Stack con orientación en el Front-end.
 
 </details>
 
