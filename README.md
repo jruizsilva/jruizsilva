@@ -2,9 +2,9 @@
 
 <h3 align="center"> Full Stack Developer with orientation in the Front-end. </h2>
 
-- 👨‍💻 Some of my projects are available at [https://jruizsilva.netlify.app](https://jruizsilva.netlify.app)
+<!-- - 👨‍💻 Some of my projects are available at [https://jruizsilva.netlify.app](https://jruizsilva.netlify.app) -->
 
-## Checkout my work
+## Checkout Some of my projects
 
 👇👇👇
 ## Marketplace App
