@@ -6,6 +6,8 @@
 
 <h3 align="center"> Full Stack Developer with orientation in the Front-end. </h2>
 
+![profile-visitors](https://visitor-badge.glitch.me/badge?page_id=jruizsilva.jruizsilva)
+
 ## _About Me_
 
 <details>
@@ -54,5 +56,3 @@
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jruizsilva" width=400/>
 </a>
-
-![profile-visitors](https://visitor-badge.glitch.me/badge?page_id=jruizsilva.jruizsilva)
