@@ -19,6 +19,10 @@
 
 </details>
 
+## _Connect with me_
+
+<a href="mailto:ruizsilvajonathan@gmail.com">Send Me an Email</a> | [LinkedIn](https://linkedin.com/in/jruizsilva)
+
 ## _Languages and Tools_
 
 <p>
@@ -36,21 +40,6 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </p>
-
-## _Connect with me_
-
-<div>
-<span>
-<a href="https://linkedin.com/in/jruizsilva" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-64/linkedin-2752135-2284952.png" alt="jruizsilva" height="35" /></a>
-</span>
-
-<span>
-<a href="mailto:ruizsilvajonathan@gmail.com" >
-<img height="35" src="https://i.ibb.co/zPfK6jM/gmail.png" /></a>
-</span>
-</div>
-
-use ctrl + click for open in a new window
 
 <hr/>
 
