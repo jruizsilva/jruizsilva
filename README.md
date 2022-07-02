@@ -41,6 +41,10 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </p>
 
+## _Portfolios_
+
+[View my Resume](https://www.google.com) | [Portfolio](https://jruizsilva.netlify.app)
+
 <hr/>
 
 ## Marketplace App
