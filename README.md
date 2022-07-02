@@ -6,10 +6,6 @@
 
 <h3 align="center"> Full Stack Developer with orientation in the Front-end. </h2>
 
-## _Test with gifs_
-
-<img src="countries.gif"/>
-
 ## _About Me_
 
 <details>
