@@ -4,7 +4,8 @@
 
 <h1 align="center"> Hi 👋, I'm Jonathan </h1>
 
-<h3 align="center"> Full Stack Developer with orientation in the Front-end. </h2>
+<h3 align="center"> Full Stack Developer with orientation in the Front-end.
+</h3>
 
 ## _About Me_
 
