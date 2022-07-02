@@ -24,6 +24,21 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </p>
 
+## Connect with me:
+
+<div>
+<span>
+<a href="https://linkedin.com/in/jruizsilva" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-64/linkedin-2752135-2284952.png" alt="jruizsilva" height="35" /></a>
+</span>
+
+<span>
+<a href="mailto:ruizsilvajonathan@gmail.com" >
+<img height="35" src="https://i.ibb.co/zPfK6jM/gmail.png" /></a>
+</span>
+</div>
+
+use ctrl + click for open in a new window
+
 <hr/>
 
 ## Marketplace App
@@ -58,20 +73,3 @@ use ctrl + click for open the project in a new window
 <div>
   <a href="https://countries-pi-jruizsilva.vercel.app" target="_blank"><img width='48%' src='./images/countries/home.png' /></a>
 </div>
-
-<hr/>
-
-## Connect with me:
-
-<div>
-<span>
-<a href="https://linkedin.com/in/jruizsilva" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-64/linkedin-2752135-2284952.png" alt="jruizsilva" height="35" /></a>
-</span>
-
-<span>
-<a href="mailto:ruizsilvajonathan@gmail.com" >
-<img height="35" src="https://i.ibb.co/zPfK6jM/gmail.png" /></a>
-</span>
-</div>
-
-use ctrl + click for open in a new window
