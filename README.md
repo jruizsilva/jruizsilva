@@ -11,9 +11,7 @@
 <details>
   <summary>Click to expand!</summary>
 
-🔸 Tengo 23 años, vivo en Buenos Aires, Argentina, soy un Desarrollador Full Stack con orientación en el Front-end. <br/>
-📚 Tengo conocimiento en tecnologías como : HTML, CSS, JavaScript, React.js, Redux.js, Node.js, Express.js,
-PostgresSQL, Sequelize.
+🔸 Soy un desarrollador web Full Stack con orientación en el Front-end.
 
 🔸 Actualmente me encuentro cursando el bootcamp henry, en donde pude mejorar ejercitar mis capacidades técnicas, pero sobre todo mis capacidades sociales como programador.
 
