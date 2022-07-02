@@ -25,7 +25,7 @@ React - Redux - NodeJS - Express - PostgreSQL - Sequelize
 ## Countries App
 
 🚀 Technologies:
-React - Redux - NodeJS - Express - PostgreSQL - Sequelizee
+React - Redux - NodeJS - Express - PostgreSQL - Sequelize
 
 <div>
   <a href="https://github.com/jruizsilva/countries-pi" target="_blank"><img width='98%' src='./images/countries/home.png' /></a>
