@@ -11,8 +11,7 @@
 <details>
   <summary>Click to expand!</summary>
 
-🔸 Tengo 23 años, vivo en Buenos Aires, Argentina, soy un Desarrollador Full Stack con orientación en el Front-end.
-
+🔸 Tengo 23 años, vivo en Buenos Aires, Argentina, soy un Desarrollador Full Stack con orientación en el Front-end. <br/>
 📚 Tengo conocimiento en tecnologías como : HTML, CSS, JavaScript, React.js, Redux.js, Node.js, Express.js,
 PostgresSQL, Sequelize.
 
