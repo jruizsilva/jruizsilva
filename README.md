@@ -45,37 +45,14 @@
 
 [View my Resume](https://www.google.com) | [Portfolio](https://jruizsilva.netlify.app)
 
-<hr/>
+## _Stats_
 
-## Marketplace App
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=ThompsonBethany01&theme=graywhite&show_icons=true" width=400/>
+</a>
 
-📌 Henry bootcamp final project.
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThompsonBethany01" width=400/>
+</a>
 
-🚀 Technologies:
-React - Redux - NodeJS - Express - PostgreSQL - Sequelize
-
-use ctrl + click for open the project in a new window
-
-<div>
-  <a href="https://e-commerce-labs.vercel.app" target="_blank"><img width='49%' src='./images/marketplace/home.png' /></a>
-  <a href="https://e-commerce-labs.vercel.app" target="_blank"><img width='49%' src='./images/marketplace/mypublicationspage.png' /></a>
-</div>
-<div>
-  <a href="https://e-commerce-labs.vercel.app" target="_blank"><img width='49%' src='./images/marketplace/cartpage.png' /></a>
-  <a href="https://e-commerce-labs.vercel.app" target="_blank"><img width='49%' src='./images/marketplace/checkoutpage.png' /></a>
-</div>
-
-<hr/>
-
-## Countries App
-
-📌 Henry bootcamp individual project.
-
-🚀 Technologies:
-React - Redux - NodeJS - Express - PostgreSQL - Sequelize
-
-use ctrl + click for open the project in a new window
-
-<div>
-  <a href="https://countries-pi-jruizsilva.vercel.app" target="_blank"><img width='48%' src='./images/countries/home.png' /></a>
-</div>
+![profile-visitors](https://visitor-badge.glitch.me/badge?page_id=ThompsonBethany01.ThompsonBethany01)
