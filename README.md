@@ -44,7 +44,7 @@
 
 ## _Portfolios_
 
-[View my Resume](https://www.google.com) | [Portfolio](https://jruizsilva.netlify.app)
+[View my Resume](https://drive.google.com/file/d/1E4pXgVt5TMaiyeC45wxBKRTnvBbvVO4b/view?usp=sharing) | [Portfolio](https://jruizsilva.netlify.app)
 
 ## _Stats_
 
