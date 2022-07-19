@@ -14,7 +14,7 @@
 
 🔸 Tengo 23 años, vivo en Buenos Aires, Argentina.
 
-🔸 Actualmente me encuentro cursando el bootcamp henry, en donde pude mejorar mis capacidades técnicas y sociales como programador.
+🔸 Actualmente me estoy formando en la plataforma de alkemy, en donde estoy mejorando mis capacidades técnicas y sociales como programador.
 
 🔸 Mi experiencia como desarrollador esta basada en varios proyectos que realice en el trascurso del bootcamp, además de algunos proyectos personales que realice mientras estudiaba de forma autodidacta.
 
