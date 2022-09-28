@@ -56,4 +56,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jruizsilva" width=400/>
 </a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jruizsilva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ![profile-visitors](https://visitor-badge.glitch.me/badge?page_id=jruizsilva.jruizsilva)
