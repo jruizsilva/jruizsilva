@@ -49,11 +49,11 @@
 ## _Stats_
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jruizsilva&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jruizsilva&layout=compact" height=160/>
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=jruizsilva&theme=graywhite&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=jruizsilva&theme=graywhite&show_icons=true" height=160/>
 </a>
 
 ![profile-visitors](https://visitor-badge.glitch.me/badge?page_id=jruizsilva.jruizsilva)
