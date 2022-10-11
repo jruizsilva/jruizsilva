@@ -4,20 +4,12 @@
 
 ## _About Me_
 
-<details>
-  <summary>Click to expand!</summary>
-
-🔸 I am 23 years old, I live in Buenos Aires, Argentina.
+🔸 I'm a Full Stack Developer with orientation in the Front-end.
 
 🔸 I am currently learning react with typescript in udemy courses.
 
 🔸 My experience as a developer is based on several projects that I carried out during the course of the bootcamp, as well as some personal projects that I carried out while studying in a self-taught way.
 
-</details>
-
-## _Connect with me_
-
-<a href="mailto:ruizsilvajonathan@gmail.com">Send Me an Email</a> | [LinkedIn](https://linkedin.com/in/jruizsilva)
 
 ## _Languages and Tools_
 
@@ -40,6 +32,10 @@
 ## _My resume and portfolio_
 
 [View my Resume](https://drive.google.com/file/d/1yp-r9G5Szopo6xplPYuTjtfetVerh7U_/view?usp=sharing) | [Portfolio](https://vite-portfolio-jruizsilva.vercel.app)
+
+## _Connect with me_
+
+<a href="mailto:ruizsilvajonathan@gmail.com">Send Me an Email</a> | [LinkedIn](https://linkedin.com/in/jruizsilva)
 
 ## _Stats_
 
