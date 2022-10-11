@@ -12,11 +12,11 @@
 <details>
   <summary>Click to expand!</summary>
 
-🔸 Tengo 23 años, vivo en Buenos Aires, Argentina.
+🔸 I am 23 years old, I live in Buenos Aires, Argentina.
 
-🔸 Actualmente me estoy formando en la plataforma de alkemy, en donde estoy mejorando mis capacidades técnicas y sociales como programador.
+🔸 I am currently learning react with typescript in udemy courses.
 
-🔸 Mi experiencia como desarrollador esta basada en varios proyectos que realice en el trascurso del bootcamp, además de algunos proyectos personales que realice mientras estudiaba de forma autodidacta.
+🔸 My experience as a developer is based on several projects that I carried out during the course of the bootcamp, as well as some personal projects that I carried out while studying in a self-taught way.
 
 </details>
 
