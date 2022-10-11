@@ -1,6 +1,6 @@
 <!-- - 👨‍💻 Some of my projects are available at [https://jruizsilva.netlify.app](https://jruizsilva.netlify.app) -->
 
-<img src="./images/banner.png" width="100%"/>
+<img src="./images/mybanner.png" width="100%"/>
 
 <h1 align="center"> Hi 👋, I'm Jonathan </h1>
 
