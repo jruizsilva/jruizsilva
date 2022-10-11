@@ -42,9 +42,9 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </p>
 
-## _Portfolios_
+## _My resume and portfolio_
 
-[View my Resume](https://drive.google.com/file/d/1n55n3O2eqs3LO0N7LP71EHn_4eLpXTMD/view?usp=sharing) | [Portfolio](https://jruizsilva.netlify.app)
+[View my Resume](https://drive.google.com/file/d/1yp-r9G5Szopo6xplPYuTjtfetVerh7U_/view?usp=sharing) | [Portfolio](https://vite-portfolio-jruizsilva.vercel.app)
 
 ## _Stats_
 
@@ -55,5 +55,3 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=jruizsilva&theme=graywhite&show_icons=true" height=160/>
 </a>
-
-![profile-visitors](https://visitor-badge.glitch.me/badge?page_id=jruizsilva.jruizsilva)
