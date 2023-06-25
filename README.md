@@ -14,7 +14,7 @@ Para simplificar el acceso y la manipulación de los datos, utilizo los ORM Sequ
 
 ## _Curriculum y Porfolio_
 
-[Curriculum](https://drive.google.com/file/d/1yp-r9G5Szopo6xplPYuTjtfetVerh7U_/view?usp=sharing) | [Portfolio](https://vite-portfolio-jruizsilva.vercel.app)
+[Curriculum](https://drive.google.com/file/d/1yp-r9G5Szopo6xplPYuTjtfetVerh7U_/view?usp=sharing) | [Portfolio](https://jruizsilva.netlify.app)
 
 ## _Contacto_
 
