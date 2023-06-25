@@ -1,48 +1,21 @@
 <!-- - 👨‍💻 Some of my projects are available at [https://jruizsilva.netlify.app](https://jruizsilva.netlify.app) -->
 
-<img src="./images/banner2.png" width="100%"/>
+<img src="./images/background.png" width="100%"/>
 
-## _About Me_
+## _Sobre mi_
 
-🔸 I'm a Full Stack Developer with orientation in the Front-end.
+¡Hola! Soy un desarrollador web full stack con amplia experiencia en tecnologías como HTML, CSS, JavaScript, TypeScript, React, Node.js y Express.js. Mi enfoque principal es crear aplicaciones web completas, desde el diseño y desarrollo del frontend hasta la implementación del backend.
 
-🔸 I am currently learning react with typescript in udemy courses.
+En el frontend, utilizo HTML, CSS y JavaScript para construir interfaces de usuario atractivas y funcionales. Además, empleo TypeScript para agregar tipado estático y garantizar un código más robusto y escalable. Para hacer que mis aplicaciones sean interactivas y dinámicas, utilizo el framework React.
 
-🔸 My experience as a developer is based on several projects that I carried out during the course of the bootcamp, as well as some personal projects that I carried out while studying in a self-taught way.
+En el backend, me especializo en JavaScript, TypeScript, Node.js y Express.js. Estas tecnologías me permiten crear servidores eficientes y escalables que pueden manejar solicitudes y proporcionar respuestas rápidas. También trabajo con bases de datos, principalmente PostgreSQL y MongoDB, para almacenar y gestionar datos de manera efectiva.
 
+Para simplificar el acceso y la manipulación de los datos, utilizo los ORM Sequelize y Mongoose. Estas herramientas me permiten interactuar con las bases de datos de manera más intuitiva y eficiente, lo que facilita el desarrollo de aplicaciones robustas y con un rendimiento óptimo.
 
-## _Languages and Tools_
+## _Curriculum y Porfolio_
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-64/sequelize-2-1175003.png" alt="sequelize" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-</p>
+[Curriculum](https://drive.google.com/file/d/1yp-r9G5Szopo6xplPYuTjtfetVerh7U_/view?usp=sharing) | [Portfolio](https://vite-portfolio-jruizsilva.vercel.app)
 
-## _My resume and portfolio_
+## _Contacto_
 
-[View my Resume](https://drive.google.com/file/d/1yp-r9G5Szopo6xplPYuTjtfetVerh7U_/view?usp=sharing) | [Portfolio](https://vite-portfolio-jruizsilva.vercel.app)
-
-## _Connect with me_
-
-<a href="mailto:ruizsilvajonathan@gmail.com">Send Me an Email</a> | [LinkedIn](https://linkedin.com/in/jruizsilva)
-
-## _Stats_
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jruizsilva&layout=compact" height=160/>
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=jruizsilva&theme=graywhite&show_icons=true" height=160/>
-</a>
+[LinkedIn](https://linkedin.com/in/jruizsilva)
