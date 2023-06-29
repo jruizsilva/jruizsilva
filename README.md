@@ -5,15 +5,12 @@
 Soy un desarrollador de software especializado en tecnologías web como HTML, CSS, JavaScript, Typescript, React.js, Node.js, Express.js, Sequelize y PostgreSQL. Tengo experiencia en el desarrollo de aplicaciones web escalables y eficientes utilizando metodologías ágiles. Poseo habilidades destacadas en trabajo en equipo, resolución de problemas y autonomía. Busco oportunidades emocionantes para aplicar mis habilidades y colaborar en proyectos desafiantes.
 
 - 🌱 Actualmente estoy aprendiendo **arquitectura de capas para node.js**
-
 - 👨‍💻 Portfolio: [https://portfolio-jruizsilva.vercel.app](https://portfolio-jruizsilva.vercel.app)
-
 - 📫 Correo electrónico: **ruizsilvajonathan@gmail.com**
-
 - 📄 CV [Jonathan Marcelo Ruiz Silva](https://drive.google.com/file/d/1VhufaoAJ-ILlj-FZFUXLHpzxw5yz5k5_/view?usp=sharing)
 - 📖 LinkedIn: [jruizsilva](https://www.linkedin.com/in/jruizsilva)
 
-<h3 align="left">Tecnologias</h3>
+<h3 align="left">Tecnologías</h3>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
