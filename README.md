@@ -1,4 +1,4 @@
-<img src="./images/background.png" width="100%"/>
+<img src="./images/hero.png" width="100%"/>
 
 ## _Sobre mi_
 
