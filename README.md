@@ -9,7 +9,7 @@ Soy un desarrollador de software especializado en tecnologías web comoHTML, CSS
 - 🌱 Actualmente estoy aprendiendo **spring security**
 - 👨‍💻 Portfolio: [https://portfolio-jruizsilva.vercel.app](https://portfolio-jruizsilva.vercel.app)
 - 📫 Correo electrónico: **ruizsilvajonathan@gmail.com**
-- 📄 CV: [Jonathan Marcelo Ruiz Silva](https://drive.google.com/file/d/164-cMae6-XPTGntPQtomMj3pDcrv-7oe/view?usp=sharing)
+- 📄 CV: [Jonathan Marcelo Ruiz Silva](https://drive.google.com/file/d/1NzbU1CFDlFTk0LdnaMokE0Md0VOox2TM/view)
 - 📖 LinkedIn: [jruizsilva](https://www.linkedin.com/in/jruizsilva)
 
 <h3 align="left">Tecnologías</h3>
