@@ -12,6 +12,8 @@ Soy un desarrollador de software especializado en tecnologías web comoHTML, CSS
 - 📄 CV: [Jonathan Marcelo Ruiz Silva](https://drive.google.com/file/d/1kjgPzLzG7BHoNNyQP2QDWmVCPGnAcJac/view?usp=sharing)
 - 📖 LinkedIn: [jruizsilva](https://www.linkedin.com/in/jruizsilva)
 
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jruizsilva&show_icons=true&locale=en&layout=compact" alt="jruizsilva" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jruizsilva&" alt="jruizsilva" /></p>
