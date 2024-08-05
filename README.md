@@ -1,4 +1,4 @@
-<img src="./images/banner.png" width="100%"/>
+<img src="./images/banner.jpeg" width="100%"/>
 
 ## Acerca de mí
 
